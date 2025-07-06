@@ -16,6 +16,10 @@ obj/
 .vscode/
 *.code-workspace
 
+Appointment.Backend.csproj
+Appointment.Backend.http
+appsettings.Development.json
+
 
 *.nupkg
 packages/
